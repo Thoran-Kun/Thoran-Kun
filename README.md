@@ -16,6 +16,4 @@
 > location   : Italy 🇮🇹
 > passion    : Code & Web-App
 > system     : _
-// Tech_Stack
- // System_Stats
- // Establish_Connection
+
