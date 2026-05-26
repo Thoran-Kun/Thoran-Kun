@@ -1,8 +1,10 @@
 ### 👨‍💻 About Me
 
-Be se sei qui è per sapere qualcosa in più su di me. Mi chiamo Salvatore, ho 35 anni, e ho appena completato il master in Full-Stack Web-Developer presso **EPICODE** 🎓 
-Credo fermamente che ogni grande progetto nasca da un’idea semplice 💡, e il mio obiettivo è renderla tangibile attraverso codice pulito e soluzioni scalabili.
-Mi definisco un eterno studente: amo apprendere nuove skill e confrontarmi con il lavoro di squadra, convinto che il brainstorming collettivo sia la chiave per risolvere le sfide tecniche più complesse.
+👋 **Ciao, sono Salvatore!**
+Junior Full-Stack Web Developer fortemente orientato alla scrittura di codice pulito, scalabile e manutenibile. Dopo aver completato un master intensivo di 6 mesi presso **EPICODE**, mi dedico alla progettazione di applicazioni web combinando solide logiche backend e interfacce frontend intuitive e responsive.
+
+🧠 **La mia filosofia:**
+Credo fermamente che ogni grande progetto nasca da un'idea semplice 💡, e il mio obiettivo è renderla tangibile attraverso soluzioni software efficienti. Mi definisco un "eterno studente": ho una naturale propensione all'apprendimento continuo, amo acquisire nuove skill e credo che il confronto e il brainstorming di squadra siano la chiave per superare le sfide tecniche più complesse.
 ---
 
 ### 🛠️ Tech_Stack
@@ -25,6 +27,7 @@ Mi definisco un eterno studente: amo apprendere nuove skill e confrontarmi con i
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 📧 I Miei Contatti
+Se vuoi dare un'occhiata ai miei progetti, collaborare o fare due chiacchiere sul mondo tech, non esitare a contattarmi:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/salvatore-pepe/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](pepesalvatore12@gmail.com)
