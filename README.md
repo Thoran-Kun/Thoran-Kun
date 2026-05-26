@@ -1,11 +1,12 @@
 ### 👨‍💻 About Me
 
-👋 **Ciao, sono Salvatore!**
-Junior Full-Stack Web Developer fortemente orientato alla scrittura di codice pulito, scalabile e manutenibile. Dopo aver completato un master intensivo di 6 mesi presso **EPICODE**, mi dedico alla progettazione di applicazioni web combinando solide logiche backend e interfacce frontend intuitive e responsive.
+<p>👋 <strong>Ciao, sono Salvatore!</strong><br>
+Junior Full-Stack Web Developer fortemente orientato alla scrittura di codice pulito, scalabile e manutenibile. Dopo aver completato un master intensivo di 6 mesi presso <strong>EPICODE</strong>, mi dedico alla progettazione di applicazioni web combinando solide logiche backend e interfacce frontend intuitive e responsive.</p>
 
-🧠 **La mia filosofia:**
-Credo fermamente che ogni grande progetto nasca da un'idea semplice 💡, e il mio obiettivo è renderla tangibile attraverso soluzioni software efficienti. Mi definisco un "eterno studente": ho una naturale propensione all'apprendimento continuo, amo acquisire nuove skill e credo che il confronto e il brainstorming di squadra siano la chiave per superare le sfide tecniche più complesse.
----
+<p>🧠 <strong>La mia filosofia:</strong><br>
+Credo fermamente che ogni grande progetto nasca da un'idea semplice 💡, e il mio obiettivo è renderla tangibile attraverso soluzioni software efficienti. Mi definisco un "eterno studente": ho una naturale propensione all'apprendimento continuo, amo acquisire nuove skill e credo che il confronto e il brainstorming di squadra siano la chiave per superare le sfide tecniche più complesse.</p>
+
+<hr>
 
 ### 🛠️ Tech_Stack
 
