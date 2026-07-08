@@ -27,6 +27,21 @@ Credo fermamente che ogni grande progetto nasca da un'idea semplice 💡, e il m
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+---
+
+
+#### Matrix Digital Rain (Vanilla JS & Canvas API)
+Un esperimento visivo di manipolazione dei pixel in tempo reale, ottimizzato per il responsive design e scritto interamente in JavaScript moderno (ES6+). 
+
+[![Live Demo](https://img.shields.shields.shields.shields.shields.io/badge/DEMO-LIVE-green?style=for-the-badge&logo=matrix)](https://Thoran-Kun.github.io/the-matrix-effect/)
+
+![Anteprima Matrix](https://raw.githubusercontent.com/Thoran-Kun/the-matrix-effect/main/matrix.Gif.gif)
+
+* **Key Features:** Uso di costanti immutabili e arrow functions, gestione dinamica del ridimensionamento del canvas, rendering asincrono ottimizzato per le prestazioni del browser.
+* **Tech Used:** HTML5 (Canvas API), CSS3, JavaScript Vanilla (ES6+).
+
+<p align="right">(<a href="https://github.com/Thoran-Kun/the-matrix-effect">Vai al codice sorgente 📂</a>)</p>
+
 ### 📧 I Miei Contatti
 Se vuoi dare un'occhiata ai miei progetti, collaborare o fare due chiacchiere sul mondo tech, non esitare a contattarmi:
 
