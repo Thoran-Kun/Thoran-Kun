@@ -35,7 +35,7 @@ Un esperimento visivo di manipolazione dei pixel in tempo reale, ottimizzato per
 
 [![Live Demo](https://img.shields.shields.shields.shields.shields.io/badge/DEMO-LIVE-green?style=for-the-badge&logo=matrix)](https://Thoran-Kun.github.io/the-matrix-effect/)
 
-![Anteprima Matrix](https://raw.githubusercontent.com/Thoran-Kun/the-matrix-effect/main/matrix.Gif.gif)
+![Anteprima Matrix](https://github.com/Thoran-Kun/the-matrix-effect/raw/main/Matrix.Gif.gif)
 
 * **Key Features:** Uso di costanti immutabili e arrow functions, gestione dinamica del ridimensionamento del canvas, rendering asincrono ottimizzato per le prestazioni del browser.
 * **Tech Used:** HTML5 (Canvas API), CSS3, JavaScript Vanilla (ES6+).
