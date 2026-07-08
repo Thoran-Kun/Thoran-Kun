@@ -33,7 +33,7 @@ Credo fermamente che ogni grande progetto nasca da un'idea semplice 💡, e il m
 #### Matrix Digital Rain (Vanilla JS & Canvas API)
 Un esperimento visivo di manipolazione dei pixel in tempo reale, ottimizzato per il responsive design e scritto interamente in JavaScript moderno (ES6+). 
 
-[![Live Demo](https://img.shields.shields.shields.shields.shields.io/badge/DEMO-LIVE-green?style=for-the-badge&logo=matrix)](https://Thoran-Kun.github.io/the-matrix-effect/)
+[![Live Demo](https://img.shields.shields.shields.shields.shields.io/badge/DEMO-LIVE-green?style=for-the-badge&logo=javascript)](https://Thoran-Kun.github.io/the-matrix-effect/)
 
 ![Anteprima Matrix](https://github.com/Thoran-Kun/the-matrix-effect/raw/main/Matrix.Gif.gif)
 
